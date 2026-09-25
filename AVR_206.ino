@@ -20,7 +20,7 @@ BluetoothSerial SerialBT;
 
 const float ADC_REFERENCE = 3.3;
 const int ADC_MAX_VALUE = 4095;
-const float DIVIDER_RATIO = 12.0;
+const float DIVIDER_RATIO = 13.0;
 const float TOTAL_DIODE_DROP = 1.05;
 const float TRANSFORMER_RATIO = 16.25;
 float CALIBRATION_GAIN = 1.0;
